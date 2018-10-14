@@ -1,3 +1,5 @@
+https://www.evernote.com/shard/s79/sh/f7f97af6-67f1-4c12-acbf-7b441bd065bf/0cf435edc3ebd52171ea756bc58e0c2e
+
 # Let's Kube
 
 ![Let's Kube](image.png)
